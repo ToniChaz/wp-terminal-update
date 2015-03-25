@@ -26,7 +26,9 @@ Your wordpress installation rute, for example:
 *http://localhost/wordpress -> localhost/wordpress*
 
 License
-GNU
-LICENSE
 
+GNU
+[LICENSE]
+
+[LICENSE]:https://github.com/ToniChaz/wp-terminal-update/blob/master/LICENSE
 [Bash]:http://tiswww.case.edu/php/chet/bash/bashtop.html
