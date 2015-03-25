@@ -14,6 +14,9 @@ Update your wordpress via terminal
 * [Bash] - Bourne again shell
 
 ### Installation
+
+*put the script in your wordpress installation folder*
+
 ```sh
 $ cd wordpress/
 $ ./update.sh
