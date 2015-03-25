@@ -25,7 +25,7 @@ Your wordpress installation rute, for example:
 
 *http://localhost/wordpress -> localhost/wordpress*
 
-License
+#### License
 
 GNU
 [LICENSE]
